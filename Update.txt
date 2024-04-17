@@ -3,7 +3,10 @@
     {
  "version":"5.328.0",
  "title":"Update Cok Jancok",
- "description":"Update o Mbut Jembut Angel Rek",
+ "description":"Superior Grab Driver recommends that you
+update to the latest version 5.328.0 You
+can keep online the app while
+downloading the update.",
 "download":"https://drive.google.com/file/d/111zg5HqFSWo-3U5EhE_R_xplxpc3_mKA/view?usp=drivesdk"
 }
   ]
