@@ -1,13 +1,13 @@
 {
   "GrabDriver_Update": [
     {
- "version":"5.331.0",
+ "version":"5.334.0",
  "title":"Update Cok Jancok",
  "description":"Superior Grab Driver recommends that you
-update to the latest version 5.331.0 You
+update to the latest version 5.334.0 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/file/d/13bpcg3JKRSW0-R7yaFKl5tg3mznvtlnv/view?usp=drivesdk"
+"download":""
 }
   ]
 }
